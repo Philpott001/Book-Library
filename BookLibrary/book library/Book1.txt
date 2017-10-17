@@ -1,0 +1,4 @@
+Title: Book1
+Author: Charlie Philpott
+Date published: 4th November 1990
+Price: 10.99 

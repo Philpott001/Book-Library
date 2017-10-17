@@ -1,0 +1,4 @@
+Title: Book2
+Author: Abigail Swadkins
+Date published: 43th July 2003
+Price: 9.00

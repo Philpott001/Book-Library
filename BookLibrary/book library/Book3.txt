@@ -1,0 +1,4 @@
+Title: Book3
+Author: John Smith
+Date published: 18th January 1982
+Price: 14.00
